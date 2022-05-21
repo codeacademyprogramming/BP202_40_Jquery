@@ -1,0 +1,24 @@
+
+
+.imgBox{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(182, 161, 161);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+
+img{
+    width: 150px;
+    max-width: 100%;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
